@@ -1,0 +1,6 @@
+framework module CBAiDirectSDK {
+  umbrella header "CBAiDirectSDK.h"
+
+  export *
+  module * { export * }
+}

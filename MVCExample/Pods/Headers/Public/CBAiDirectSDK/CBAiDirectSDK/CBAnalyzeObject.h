@@ -1,0 +1,1 @@
+../../../../CBAiDirectSDK/CBAiDirectSDK.framework/Headers/CBAnalyzeObject.h

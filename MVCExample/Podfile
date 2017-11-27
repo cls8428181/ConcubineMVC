@@ -1,0 +1,13 @@
+inhibit_all_warnings!
+platform :ios, '8.0'
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://git.oschina.net/cosbeautyapp/CosBeautyRepos.git'
+target 'MVCExample' do
+    pod 'Mantle'
+    pod 'MagicalRecord'
+    pod 'MBProgressHUD', '~> 0.9.2'
+    pod 'Masonry'
+    pod 'CBAiDirectSDK', '~> 0.1.6'
+    pod 'HMSegmentedControl'
+    pod 'UICountingLabel'
+end
